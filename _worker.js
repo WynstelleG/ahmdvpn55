@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "syrfvpn.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "ahmdvpn55"; // Ganti dengan nama workers kalian
+const serviceName = "syrfvpn"; // Ganti dengan nama workers kalian
 const apiKey = "bdf26c68e3f3985a10960b8c1cd96efe22c79"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "gwynstelle@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "b7208fafad84543a49b6fe97a1258a93"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
